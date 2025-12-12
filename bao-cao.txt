@@ -1,0 +1,4 @@
+HEAD
+Bao cao tuan 1 : dang hoc git rat cang thang
+Sep bao: Bao cao phai viet bang tieng Anh
+master
